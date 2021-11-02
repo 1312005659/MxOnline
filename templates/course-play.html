@@ -44,12 +44,9 @@
     <div id="main">
 
         <div class="course-info-main clearfix w has-progress">
-            <div style="width:1200px;height: 650px; margin-left:100px">
-                <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="1200"
-                       poster="http://video-js.zencoder.com/oceans-clip.png"
-                       data-setup="" type="video/mp4">
-                    <source src="{{ video.url }}">
-                </video>
+            <div style="width:1500px;height:1000px; margin-left:200px">
+              <!--<iframe src="{{ MEDIA_URL }}{{video.url}}" height="800" width="1000" scrolling=no frameBorder="0" style="border:1px solid #AABBCC" ></iframe>-->
+             <object width="1000" height="800" data="{{ MEDIA_URL }}{{video.url}}"></object>
             </div>
             <div class="info-bar clearfix">
                 <div class="content-wrap clearfix">

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2c46b57-79c5-4747-88ed-f77fbd0cc233" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MxOnline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MxOnline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MxOnline/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MxOnline/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/course-play.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/course-play.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,6 +67,28 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,19 +108,6 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="MxOnline" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="MxOnline" type="Python.DjangoServer" factoryName="Django server">
       <module name="MxOnline" />
@@ -118,15 +131,6 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method v="2" />
     </configuration>
   </component>
@@ -163,65 +167,5 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="73" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634717876197">
-      <screen x="0" y="0" width="1474" height="864" />
-    </state>
-    <state x="73" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1634717876197" />
-    <state x="857" y="548" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634316461226">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state x="857" y="548" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1986.1152@0.0.1986.1152" timestamp="1634316461226" />
-    <state x="724" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1634358884259">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state x="724" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1986.1152@0.0.1986.1152" timestamp="1634358884259" />
-    <state x="631" y="264" key="FileChooserDialogImpl" timestamp="1634716179329">
-      <screen x="0" y="0" width="1474" height="864" />
-    </state>
-    <state x="631" y="264" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1634716179329" />
-    <state width="1308" height="303" key="GridCell.Tab.0.bottom" timestamp="1635072723373">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state width="1433" height="306" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1634723239991" />
-    <state width="1308" height="303" key="GridCell.Tab.0.bottom/0.0.1986.1152@0.0.1986.1152" timestamp="1635072723373" />
-    <state width="1308" height="303" key="GridCell.Tab.0.center" timestamp="1635072723373">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state width="1433" height="306" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1634723239991" />
-    <state width="1308" height="303" key="GridCell.Tab.0.center/0.0.1986.1152@0.0.1986.1152" timestamp="1635072723373" />
-    <state width="1308" height="303" key="GridCell.Tab.0.left" timestamp="1635072723373">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state width="1433" height="306" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1634723239991" />
-    <state width="1308" height="303" key="GridCell.Tab.0.left/0.0.1986.1152@0.0.1986.1152" timestamp="1635072723373" />
-    <state width="1308" height="303" key="GridCell.Tab.0.right" timestamp="1635072723373">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state width="1433" height="306" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1634723239991" />
-    <state width="1308" height="303" key="GridCell.Tab.0.right/0.0.1986.1152@0.0.1986.1152" timestamp="1635072723373" />
-    <state x="525" y="221" key="SettingsEditor" timestamp="1635072662263">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state x="390" y="154" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1634720171636" />
-    <state x="525" y="221" key="SettingsEditor/0.0.1986.1152@0.0.1986.1152" timestamp="1635072662263" />
-    <state x="78" y="112" width="1667" height="796" key="dock-window-1" timestamp="1634293219634">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state x="78" y="112" width="1667" height="796" key="dock-window-1/0.0.1986.1152@0.0.1986.1152" timestamp="1634293219634" />
-    <state x="986" y="0" width="1006" height="1158" key="dock-window-2" timestamp="1634293032958">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state x="986" y="0" width="1006" height="1158" key="dock-window-2/0.0.1986.1152@0.0.1986.1152" timestamp="1634293032958" />
-    <state x="726" y="220" width="587" height="601" key="find.popup" timestamp="1634722118664">
-      <screen x="0" y="0" width="1474" height="864" />
-    </state>
-    <state x="726" y="220" width="587" height="601" key="find.popup/0.0.1474.864@0.0.1474.864" timestamp="1634722118664" />
-    <state x="978" y="293" width="735" height="801" key="find.popup/0.0.1986.1152@0.0.1986.1152" timestamp="1634358368484" />
-    <state x="1034" y="428" width="672" height="678" key="search.everywhere.popup" timestamp="1634306573856">
-      <screen x="0" y="0" width="1986" height="1152" />
-    </state>
-    <state x="1034" y="428" width="672" height="678" key="search.everywhere.popup/0.0.1986.1152@0.0.1986.1152" timestamp="1634306573856" />
   </component>
 </project>

@@ -174,11 +174,11 @@ WSGI_APPLICATION = 'MxOnline.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django_test',        #数据库名字
-        'USER': 'akaduo',          #账号
-        'PASSWORD': 'akaduoadmin',      #密码
-        'HOST': '127.0.0.1',    #IP
-        'PORT': '3306',                   #端口
+        'NAME': 'django_test',  # 数据库名字
+        'USER': 'root',  # 账号
+        'PASSWORD': '123456',  # 密码
+        'HOST': '127.0.0.1',  # IP
+        'PORT': '3306',  # 端口
     }
 }
 
